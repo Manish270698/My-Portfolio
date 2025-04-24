@@ -195,7 +195,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "expressJS",
         color: "pink-text-gradient",
       },
       {
