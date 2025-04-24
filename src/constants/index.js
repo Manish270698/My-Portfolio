@@ -23,7 +23,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  GitGallery
+  GitGallery,
   DevFinder,
   StreamGPT,
   Foodylicious,
