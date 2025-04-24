@@ -181,6 +181,31 @@ const testimonials = [
 
 const projects = [
   {
+    name: "GitGallery",
+    description:
+      "The best way to share your github repositories and projects with recruiters.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node.js",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: DevFinder,
+    source_code_link: "https://github.com/Manish270698/DevFinder-FE",
+  },
+  {
     name: "DevFinder",
     description:
       "Web-based platform that allows users to send/recieve/accept/ignore friend requests from other users.",
