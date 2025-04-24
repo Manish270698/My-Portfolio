@@ -23,6 +23,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  GitGallery
   DevFinder,
   StreamGPT,
   Foodylicious,
@@ -202,8 +203,8 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: DevFinder,
-    source_code_link: "https://github.com/Manish270698/DevFinder-FE",
+    image: GitGallery,
+    source_code_link: "https://gitgallery-frontend.onrender.com/",
   },
   {
     name: "DevFinder",

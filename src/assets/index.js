@@ -32,6 +32,7 @@ import tcs from "./company/tcs.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import GitGallery from "./GitGallery.png";
 import DevFinder from "./DevFinder.png";
 import StreamGPT from "./StreamGPT.png";
 import Foodylicious from "./Foodylicious.png";
@@ -68,6 +69,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  GitGallery,
   DevFinder,
   StreamGPT,
   Foodylicious,
