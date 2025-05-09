@@ -208,7 +208,7 @@ const projects = [
   {
     name: "DevFinder",
     description:
-      "Web-based platform that allows users to send/recieve/accept/ignore friend requests from other users.",
+      "Web-based platform that allows users to send/recieve/accept/ignore friend requests from other users and chat with friends.",
     tags: [
       {
         name: "react",
