@@ -127,18 +127,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Big Data Engineer",
-    company_name: "Wipro",
-    icon: wipro,
-    iconBg: "#E6DEDD",
-    date: "Dec 2020 - Dec 2022",
-    points: [
-      "Designed and implemented efficient data pipelines using Hive and BigQuery for managing and analyzing large datasets, ensuring data integrity reducing data processing time by 22% and increasing reliability.",
-      "Collaborated with data scientists to develop data models for business intelligence, optimized data storage for cost savings and improved access, and ensured system efficiency through performance tuning and troubleshooting.",
-      "Optimizing data storage solutions, achieving significant cost savings and improved data retrieval times.",
-    ],
-  },
-  {
     title: "Frontend Developer",
     company_name: "TCS",
     icon: tcs,
@@ -148,6 +136,18 @@ const experiences = [
       "Leading the development and maintenance of user interfaces with React, ensuring robust, efficient, and visually appealing applications.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Enhancing application performance through optimization and implemented responsive design for improved accessibility and user engagement across devices, while also collaborating with cross-functional teams to troubleshoot issues and translate requirements into technical specifications.",
+    ],
+  },
+  {
+    title: "Big Data Engineer",
+    company_name: "Wipro",
+    icon: wipro,
+    iconBg: "#E6DEDD",
+    date: "Dec 2020 - Dec 2022",
+    points: [
+      "Designed and implemented efficient data pipelines using Hive and BigQuery for managing and analyzing large datasets, ensuring data integrity reducing data processing time by 22% and increasing reliability.",
+      "Collaborated with data scientists to develop data models for business intelligence, optimized data storage for cost savings and improved access, and ensured system efficiency through performance tuning and troubleshooting.",
+      "Optimizing data storage solutions, achieving significant cost savings and improved data retrieval times.",
     ],
   },
 ];
