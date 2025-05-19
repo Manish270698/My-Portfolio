@@ -194,7 +194,7 @@ const projects = [
       "The best way to share your github repositories and projects with recruiters.",
     tags: [
       {
-        name: "react",
+        name: "react/redux",
         color: "blue-text-gradient",
       },
       {
@@ -209,6 +209,14 @@ const projects = [
         name: "node.js",
         color: "orange-text-gradient",
       },
+      {
+        name: "jwt",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
     ],
     image: GitGallery,
     source_code_link: "https://gitgallery-frontend.onrender.com/",
@@ -219,7 +227,7 @@ const projects = [
       "Web-based platform that allows users to send/recieve/accept/ignore friend requests from other users and chat with friends.",
     tags: [
       {
-        name: "react",
+        name: "react/redux",
         color: "blue-text-gradient",
       },
       {
@@ -234,6 +242,10 @@ const projects = [
         name: "node.js",
         color: "orange-text-gradient",
       },
+      {
+        name: "socket.io",
+        color: "green-text-gradient",
+      },
     ],
     image: DevFinder,
     source_code_link: "https://dev-finder-j6pv.onrender.com/",
@@ -244,7 +256,7 @@ const projects = [
       "Web application that shows the latest trending movies also allowing the user to search for movies based on their prompt.",
     tags: [
       {
-        name: "react",
+        name: "react/redux",
         color: "blue-text-gradient",
       },
       {
@@ -254,6 +266,14 @@ const projects = [
       {
         name: "tailwind",
         color: "pink-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "chat-gpt api integration",
+        color: "blue-text-gradient",
       },
     ],
     image: StreamGPT,
