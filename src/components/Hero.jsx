@@ -4,7 +4,7 @@ import { styles } from "../styles";
 
 const Hero = () => {
   return (
-    <section className="relative w-full h-screen mx-auto">
+    <section className="relative w-full h-96 mx-auto">
       <div
         className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5`}
       >
@@ -20,11 +20,6 @@ const Hero = () => {
             Experienced MERN Stack Developer
           </p>
         </div>
-      </div>
-      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
-        <a href="#about">
-          
-        </a>
       </div>
     </section>
   );
